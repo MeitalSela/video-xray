@@ -30,7 +30,7 @@ finished in your gallery.
 | | Breakdown tools you install | Video X-Ray |
 |---|---|---|
 | Setup | Python, ffmpeg, hundreds of MB of models | Nothing. It runs on the Cadabra AI connector |
-| Where it ends | A report and a plan | A finished video |
+| Where it ends | A report, a plan, and edits you set up and run yourself | A finished new video, made and cut in the same chat |
 | Making the shots | Bring your own model keys | Image, video, avatar, voice and music engines in one place |
 | Captions and titles | Baked or exported to a file | Rebuilt in the edit, editable, in any language |
 | Hebrew | No | Yes |

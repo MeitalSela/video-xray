@@ -5,7 +5,7 @@ description: Take any viral video apart shot by shot (how each shot was made, th
 
 # Video X-Ray
 
-Most tools stop at a report. This one stops at a finished video.
+Other breakdown tools explain a video, or change one thing inside it. This one ends with a whole new video of your own.
 
 1. **X-ray** (free): every cut measured, one still from inside every shot,
    the pace, whether the cuts land on the music, the hook scored.
