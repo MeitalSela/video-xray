@@ -1,0 +1,12 @@
+{
+  "name": "video-xray",
+  "owner": { "name": "Cadabra AI" },
+  "metadata": { "description": "X-ray any viral video, then make yours in Cadabra AI." },
+  "plugins": [
+    {
+      "name": "video-xray",
+      "source": "./",
+      "description": "Take any viral video apart shot by shot and remake it in Cadabra AI on the original's rhythm."
+    }
+  ]
+}

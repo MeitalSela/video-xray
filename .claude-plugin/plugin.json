@@ -1,0 +1,10 @@
+{
+  "name": "video-xray",
+  "version": "1.0.0",
+  "description": "X-ray any viral video shot by shot (how each shot was made, the hook, the beat map, the rhythm, the sound, why it works), then make your own version in Cadabra AI, cut on the original's measured rhythm. No install: it runs on the Cadabra AI connector.",
+  "author": { "name": "Cadabra AI" },
+  "homepage": "https://www.livinginmovie.com",
+  "repository": "https://github.com/MeitalSela/video-xray",
+  "license": "MIT",
+  "keywords": ["video", "viral", "reels", "tiktok", "ai-video", "remake", "breakdown", "hebrew"]
+}
